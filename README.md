@@ -1,5 +1,6 @@
-it's a homework 11 for linux&git course in ICH school.
+it's homework 11 for linux&git course in ICH school.
 Here are tasks:
+
 -- Создайте новый репозиторий GitHub. Добавьте в него файл .gitignore 
 
 -- Склонируйте этот репо на свой компьютер с использованием созданного удаленного репозитория.
